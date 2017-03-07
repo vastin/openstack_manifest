@@ -1037,6 +1037,7 @@
   <project name="openstack/os-performance-tools" />
   <project name="openstack/os-refresh-config" />
   <project name="openstack/os-testr" />
+  <project name="openstack/os-traits" />
   <project name="openstack/os-vif" />
   <project name="openstack/os-win" />
   <project name="openstack/os-xenapi" />
@@ -1073,6 +1074,7 @@
   <project name="openstack/osprofiler" />
   <project name="openstack/ospurge" />
   <project name="openstack/ossa" />
+  <project name="openstack/ovsdbapp" />
   <project name="openstack/packetary" />
   <project name="openstack/packetary-specs" />
   <project name="openstack/packstack" />
@@ -1201,6 +1203,7 @@
   <project name="openstack/python-openstackclient" />
   <project name="openstack/python-openstacksdk" />
   <project name="openstack/python-opentsdbclient" />
+  <project name="openstack/python-pankoclient" />
   <project name="openstack/python-picassoclient" />
   <project name="openstack/python-rackclient" />
   <project name="openstack/python-redfish" />
